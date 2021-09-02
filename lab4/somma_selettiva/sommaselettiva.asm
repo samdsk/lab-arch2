@@ -1,3 +1,4 @@
+#not the best solution. checkout the sommaselettiva_best.asm for a optimized algorithm
 .data
 .text
 .globl somma
