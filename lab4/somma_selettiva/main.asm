@@ -1,3 +1,4 @@
+#not the best option checkout the sommaSelettiva.asm for the best solution
 .data
 .align 2
 arr: .space 20  
