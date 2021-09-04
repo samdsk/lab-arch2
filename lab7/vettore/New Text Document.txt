@@ -1,0 +1,24 @@
+main
+	a = [2, 4, 1, 2, ...]
+	a = push_back(a,10)
+	a = [3,8, 1, 2, 10, ...]
+
+
+push_back
+	$a0 l'indizzo base del vettore
+	$a1 l'elemento intero
+	$v0 l'indirizzo base del vettore lo stesso o quello nuovo
+	se c'è spazio inserisco direttamente in coda
+	altrimenti, chiamo una funzione che espande il vettore
+
+espansione
+	$a0 l'indirizzo base del vettore
+	$v0 l'indirizzo base di un nuovo vettore espanso
+
+print_all
+	$a0 l'indirizzo base del vettore
+
+
+0x7fffefec
+2147479516 -5
+2147479512
